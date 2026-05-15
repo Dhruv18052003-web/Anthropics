@@ -71,13 +71,14 @@ Each notebook is self-contained — start from the top and run cells sequentiall
 - **SDKs:** `anthropic`, `voyageai`
 - **Config:** `python-dotenv`
 
-## Developer
+## 👨‍💻 Developer
 
 **Dhruv Umang Joshi**
 
-- Python AI Developer
-- Incoming MSc AI @ University of Pisa
-- [GitHub](https://github.com/Dhruv18052003-web)
+* Python AI Developer
+* MSc in Computer Science (Artificial Intelligence Track) @ University of Pisa (Fall 2026)
+* LinkedIn: https://linkedin.com/in/dhruv-joshi-aa8195241
+* GitHub: https://github.com/Dhruv18052003-web
 
 ## License
 
